@@ -1,1 +1,1 @@
-console.log("Vai dá tudo Cert!")
+console.log("Vai dá tudo Certo!")
